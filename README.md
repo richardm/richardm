@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🏠 I moved to San Francisco in 2024 with my wife Hannah ([@hdreyer](https://github.com/hdreyer))
+- 🦾 I spend most of my time building and managing agents
 - 🔭 I’m currently taking a six-month sabbatical while I figure out what I want to work on next
 - 💼 Most recently, I've spent the past five years as an Engineering Director after 15+ years as a developer
 - ✍️ I occasionally write about software engineering on [Medium](https://medium.com/@richardmorgantx), [LinkedIn](https://www.linkedin.com/in/rickmorgan/), [X](https://x.com/morgan4tx), and [richardmorgan.com](https://richardmorgan.com/)
