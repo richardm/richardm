@@ -9,5 +9,5 @@
 Fun facts:
 - ✈️ I spent several years as a digital nomad and have visited nearly 50 countries
 - 🎶 I played classical 🎹 and rock 🥁 when I was younger and am currently learning 🎸
-- 👔 In 2012, I ran for Congress against Lamar Smith to protest his Stop Online Piracy Act (SOPA) [earning a shoutout from the Austin-American Statesman](https://www.reddit.com/r/IAmA/comments/uco2p/its_richard_morgan_who_challenged_lamar_smith_in/)
+- 👔 In 2012, I [ran for Congress against Lamar Smith](https://www.statesman.com/story/news/2012/09/24/michael-williams-best-in-district-25-lamar-smith-for-district-21/9894978007/) to protest his Stop Online Piracy Act (SOPA)
 - 📈 I later ran for Dallas Colleges Board of Trustees and [came in 2nd with 30% of the vote](https://results.enr.clarityelections.com/TX/Dallas/61322/168577/Web01/en/summary.html)
